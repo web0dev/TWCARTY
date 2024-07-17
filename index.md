@@ -5,7 +5,7 @@ description: Eleventy starter for photographer/artist
 keyword: photography, camera, blog
 author: Web Developer
 cover: /assets/index/cover.webp
-profile: https://developer.apple.com/forums/public/assets/avatars/1095.png
+profile: https://i.hizliresim.com/kofur8r.jpg
 ---
 
 I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript, and PHP.
