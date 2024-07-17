@@ -11,11 +11,11 @@ profile: https://i.hizliresim.com/kofur8r.jpg
 I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript, and PHP.
 
 ### Areas of Expertise
-Python: I have developed projects in data analysis, machine learning, and web development.
+<b>Python:</b> I have developed projects in data analysis, machine learning, and web development.
 
-JavaScript: I actively use it for frontend and backend development, with experience in React and Node.js.
+<b>JavaScript:</b> I actively use it for frontend and backend development, with experience in React and Node.js.
 
-PHP: I have completed various projects using PHP to create dynamic web applications.
+<b>PHP:</b> I have completed various projects using PHP to create dynamic web applications.
 
 ### Experience
 I have been involved in many projects, including:
