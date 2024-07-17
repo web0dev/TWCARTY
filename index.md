@@ -29,6 +29,6 @@ Feel free to reach out to me for more information about my projects and collabor
 
 <a target='_blank' href='https://github.com/web0dev'>Github</a>
 <br/>
-<a target='_blank' href='https://instagram.com/mrt0gl'>Instagram</a>
+<a target='_blank' href='https://twitter.com/turkdev0'>Twitter</a>
 <br/>
 <a target='_blank' href='mailto:abdullah.mertoglu1619@gmail.com'>Contact me</a>
