@@ -4,7 +4,7 @@ title: A. Mertoglu
 description: Eleventy starter for photographer/artist
 keyword: photography, camera, blog
 author: Web Developer
-cover: /assets/index/cover.webp
+cover: /assets/index/cover.jpg
 profile: https://i.hizliresim.com/kofur8r.jpg
 ---
 
