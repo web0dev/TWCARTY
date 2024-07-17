@@ -8,5 +8,5 @@ cover: /assets/index/cover.webp
 profile: https://i.hizliresim.com/kofur8r.jpg
 ---
 
-#### Hello World
-I'm Web0Dev, I am from Turkey. I love football, music and traveling. Life is very beautiful and chatoic.
+#### Welcome,
+I'm Web0Dev, I am from Turkey. I love football, music and traveling. I know Python, Javascript and React. 🔥
