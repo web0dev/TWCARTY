@@ -11,4 +11,4 @@ profile: https://i.hizliresim.com/kofur8r.jpg
 #### Welcome;
 I'm Web0Dev, I am from Turkey. I love football, music and traveling. I know Python, Javascript and React. 🔥
 
-[Github] [https://github.com/web0dev]
+<a href='https://github.com/web0dev'>Github</a>
