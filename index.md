@@ -8,7 +8,6 @@ cover: /assets/index/cover.webp
 profile: https://i.hizliresim.com/kofur8r.jpg
 ---
 
-### About
 I am a software engineer with extensive experience in software development. I specialize in Python, JavaScript, and PHP.
 
 ### Areas of Expertise
@@ -28,8 +27,8 @@ I have been involved in many projects, including:
 ### Contact
 Feel free to reach out to me for more information about my projects and collaboration opportunities.
 
-<a target='_blank' href='mailto:abdullah.mertoglu1619@gmail.com'>Send Mail</a>
-<br/>
 <a target='_blank' href='https://github.com/web0dev'>Github</a>
 <br/>
 <a target='_blank' href='https://instagram.com/mrt0gl'>Instagram</a>
+<br/>
+<a target='_blank' href='mailto:abdullah.mertoglu1619@gmail.com'>Contact me</a>
