@@ -4,7 +4,7 @@ title: A. Mertoglu
 description: Eleventy starter for photographer/artist
 keyword: photography, camera, blog
 author: Web Developer
-cover: 
+cover: https://c4.wallpaperflare.com/wallpaper/259/125/263/bursa-forest-snow-tree-wallpaper-preview.jpg
 profile: /assets/index/profile.webp
 ---
 
