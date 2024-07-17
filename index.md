@@ -4,7 +4,7 @@ title: A. Mertoglu
 description: Eleventy starter for photographer/artist
 keyword: photography, camera, blog
 author: Web Developer
-cover: https://www.ncausa.org/portals/56/Images/Industry/NCA_Web_Medium_coffee-online-2.png
+cover: /assets/index/cover.webp
 profile: https://i.hizliresim.com/kofur8r.jpg
 ---
 
