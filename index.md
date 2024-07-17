@@ -27,7 +27,7 @@ I have been involved in many projects, including:
 ### Contact
 Feel free to reach out to me for more information about my projects and collaboration opportunities.
 
-<a target='_blank' href='https://x.com/web0dev'>X</a>
+<a target='_blank' href='https://github.com/web0dev'>Github</a>
 <br/>
 <a target='_blank' href='https://instagram.com/mrt0gl'>Instagram</a>
 <br/>
