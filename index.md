@@ -8,7 +8,7 @@ cover: /assets/index/cover.webp
 profile: https://i.hizliresim.com/kofur8r.jpg
 ---
 
-I'm Web0Dev, I am from Turkey. I love football, music and traveling. I know Python, Javascript and React. 🔥
+I'm DevFM, I am from Turkey. I love football, music and traveling. I know Python, Javascript and React. 🔥
 
 <a target='_blank' href='https://github.com/web0dev'>Github</a>
 <br/>
